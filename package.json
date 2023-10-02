@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "Enter in your bill amount and this app will calculate the amount of tip at different percentages.",
   "main": "index.js",
+  "directories": {
+    "js": "src"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +20,7 @@
     "url": "https://github.com/Victor3m/Code_Problems_Part_2/issues"
   },
   "homepage": "https://github.com/Victor3m/Code_Problems_Part_2#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+  }
 }
