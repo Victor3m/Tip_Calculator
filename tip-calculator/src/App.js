@@ -15,11 +15,11 @@ function App() {
   };
 
   return (
-    <div className="App">
+    <body>
       <header className="App-header">
         <h1>Tip Calculator</h1>
       </header>
-      <body>
+      <main>
         <div>
           <label htmlFor="billamnt">Bill Amount ($)</label>
           <br />
@@ -44,11 +44,9 @@ function App() {
             value={tip}
           />
         </div>
-        <div>
-          <CalculateTip tip={tip} bill={bill} />
-        </div>
-      </body>
-    </div>
+        <CalculateTip tip={tip} bill={bill} />
+        </main>
+    </body>
   );
 }
 

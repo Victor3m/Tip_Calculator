@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1696364099636" clover="3.2.0">
+  <project timestamp="1696364099636" name="All files">
+    <metrics statements="23" coveredstatements="12" conditionals="8" coveredconditionals="2" methods="6" coveredmethods="4" elements="37" coveredelements="18" complexity="0" loc="23" ncloc="23" packages="1" files="3" classes="3"/>
+    <file name="App.js" path="/home/jhester/Documents/LUJobAppProject/Project_2/Code_Problems_Part_2/tip-calculator/src/App.js">
+      <metrics statements="12" coveredstatements="12" conditionals="4" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <line num="5" count="6" type="stmt"/>
+      <line num="7" count="5" type="stmt"/>
+      <line num="8" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="11" count="5" type="stmt"/>
+      <line num="13" count="5" type="stmt"/>
+      <line num="14" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="17" count="5" type="stmt"/>
+      <line num="54" count="5" type="stmt"/>
+      <line num="55" count="5" type="stmt"/>
+      <line num="56" count="5" type="stmt"/>
+      <line num="57" count="5" type="stmt"/>
+      <line num="58" count="5" type="stmt"/>
+    </file>
+    <file name="index.js" path="/home/jhester/Documents/LUJobAppProject/Project_2/Code_Problems_Part_2/tip-calculator/src/index.js">
+      <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="17" count="0" type="stmt"/>
+    </file>
+    <file name="reportWebVitals.js" path="/home/jhester/Documents/LUJobAppProject/Project_2/Code_Problems_Part_2/tip-calculator/src/reportWebVitals.js">
+      <metrics statements="8" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <line num="1" count="0" type="stmt"/>
+      <line num="2" count="0" type="cond" truecount="0" falsecount="4"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
